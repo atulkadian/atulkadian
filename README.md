@@ -3,6 +3,8 @@
 
 ## A lazy developer and a final year BTech student.
 
+![](https://komarev.com/ghpvc/?username=atulkadian)
+
 ### Connect with me:
 
 [facebook]: https://facebook.com/kadianatul
